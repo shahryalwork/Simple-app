@@ -1,0 +1,20 @@
+.dashoard{
+
+ height: 100vh;   
+ h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+ }
+ header{
+     display: flex;
+     justify-content: flex-end;
+     padding: 20px;
+    .logout-btn{
+        background-color: #6495ED;;
+        border-color: none;
+        color: #fff;
+    }
+ }
+}

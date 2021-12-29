@@ -1,0 +1,17 @@
+.auth-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .auth-col {
+        border: 1px solid #ccc;
+        padding: 30px;
+        border-radius: 2;
+        border-radius: 15px;
+    }
+}
+.error-style{
+    display: flex;
+    justify-content: center;
+    color:red
+}
